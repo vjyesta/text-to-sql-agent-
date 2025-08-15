@@ -1,0 +1,18 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Database
+# sqlite3 is part of the Python standard library; no pip package needed
+
+# Data processing
+pandas>=2.0.0
+tabulate>=0.9.0
+
+# UI and formatting
+colorama>=0.4.6  # For colored terminal output
+
+# Optional but recommended
+pytest>=7.0.0  # For testing
+black>=23.0.0  # For code formatting
+pylint>=2.17.0  # For code linting
